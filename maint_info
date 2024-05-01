@@ -1,0 +1,104 @@
+{
+  "cars": [
+    {
+      "make": "Toyota",
+      "models": [
+        {
+          "model": "Camry",
+          "maintenance_intervals": {
+            "oil_change": "5000 miles",
+            "tire_rotation": "5000 miles",
+            "brake_inspection": "10000 miles",
+            "air_filter_replacement": "30000 miles",
+            "transmission_fluid_change": "60000 miles"
+          }
+        },
+        {
+          "model": "Corolla",
+          "maintenance_intervals": {
+            "oil_change": "5000 miles",
+            "tire_rotation": "5000 miles",
+            "brake_inspection": "10000 miles",
+            "air_filter_replacement": "30000 miles",
+            "transmission_fluid_change": "60000 miles"
+          }
+        }
+      ]
+    },
+    {
+      "make": "Ford",
+      "models": [
+        {
+          "model": "F-150",
+          "maintenance_intervals": {
+            "oil_change": "7500 miles",
+            "tire_rotation": "7500 miles",
+            "brake_inspection": "10000 miles",
+            "air_filter_replacement": "30000 miles",
+            "transmission_fluid_change": "90000 miles"
+          }
+        },
+        {
+          "model": "Mustang",
+          "maintenance_intervals": {
+            "oil_change": "5000 miles",
+            "tire_rotation": "7500 miles",
+            "brake_inspection": "10000 miles",
+            "air_filter_replacement": "30000 miles",
+            "transmission_fluid_change": "90000 miles"
+          }
+        }
+      ]
+    },
+    {
+      "make": "Honda",
+      "models": [
+        {
+          "model": "Civic",
+          "maintenance_intervals": {
+            "oil_change": "5000 miles",
+            "tire_rotation": "7500 miles",
+            "brake_inspection": "10000 miles",
+            "air_filter_replacement": "30000 miles",
+            "transmission_fluid_change": "90000 miles"
+          }
+        },
+        {
+          "model": "Accord",
+          "maintenance_intervals": {
+            "oil_change": "5000 miles",
+            "tire_rotation": "7500 miles",
+            "brake_inspection": "10000 miles",
+            "air_filter_replacement": "30000 miles",
+            "transmission_fluid_change": "90000 miles"
+          }
+        }
+      ]
+    },
+    {
+      "make": "Chevrolet",
+      "models": [
+        {
+          "model": "Silverado",
+          "maintenance_intervals": {
+            "oil_change": "7500 miles",
+            "tire_rotation": "7500 miles",
+            "brake_inspection": "10000 miles",
+            "air_filter_replacement": "45000 miles",
+            "transmission_fluid_change": "100000 miles"
+          }
+        },
+        {
+          "model": "Malibu",
+          "maintenance_intervals": {
+            "oil_change": "7500 miles",
+            "tire_rotation": "7500 miles",
+            "brake_inspection": "10000 miles",
+            "air filter_replacement": "45000 miles",
+            "transmission_fluid_change": "100000 miles"
+          }
+        }
+      ]
+    }
+  ]
+}
