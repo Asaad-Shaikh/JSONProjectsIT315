@@ -1,0 +1,35 @@
+{
+    "vehicles": [
+      {
+        "make": "Toyota",
+        "model": "Camry",
+        "maintenance_schedule": {
+          "20000": ["Oil change", "Tire rotation", "Inspect brakes"],
+          "40000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter"],
+          "60000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery"],
+          "80000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery", "Change spark plugs"]
+        }
+      },
+      {
+        "make": "Ford",
+        "model": "F-150",
+        "maintenance_schedule": {
+          "20000": ["Oil change", "Tire rotation", "Inspect brakes"],
+          "40000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter"],
+          "60000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery"],
+          "80000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery", "Change spark plugs"]
+        }
+      },
+      {
+        "make": "Honda",
+        "model": "Civic",
+        "maintenance_schedule": {
+          "20000": ["Oil change", "Tire rotation", "Inspect brakes"],
+          "40000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter"],
+          "60000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery"],
+          "80000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery", "Change spark plugs"]
+        }
+      }
+    ]
+  }
+  
