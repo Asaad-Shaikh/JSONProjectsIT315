@@ -34,6 +34,61 @@
             }
         },
         {
+            "make": "Honda",
+            "model": "Civic",
+            "maintenance_schedule": {
+                "20000": ["Oil change", "Tire rotation", "Inspect brakes"],
+                "40000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Change front and rear differential fluids", "Change transfer case fluid"],
+                "60000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery"],
+                "80000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery", "Change spark plugs"],
+                "100000": ["Oil change", "Tire rotation", "Inspect brakes", "Change spark plugs"]
+            }
+        },
+        {
+            "make": "Infiniti",
+            "model": "Q50",
+            "maintenance_schedule": {
+                "20000": ["Oil change", "Tire rotation", "Inspect brakes"],
+                "40000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Check fluid levels", "Change front and rear differential fluids", "Change transfer case fluid"],
+                "60000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery", "Check suspension"],
+                "80000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery", "Change spark plugs", "Change differential fluid", "Change transfer case fluids"],
+                "100000": ["Oil change", "Tire rotation", "Inspect brakes", "Change spark plugs"]
+            }
+        },
+        {
+            "make": "BMW",
+            "model": "3 Series",
+            "maintenance_schedule": {
+                "20000": ["Oil change", "Tire rotation", "Inspect brakes"],
+                "40000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Change front and rear differential fluids", "Change transfer case fluid"],
+                "60000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery"],
+                "80000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery", "Change spark plugs", "Change differential fluid", "Change transfer case fluids"],
+                "100000": ["Oil change", "Tire rotation", "Inspect brakes", "Change spark plugs"]
+            }
+        },
+        {
+            "make": "Acura",
+            "model": "TLX",
+            "maintenance_schedule": {
+                "20000": ["Oil change", "Tire rotation", "Inspect brakes"],
+                "40000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Service transmission", "Change front and rear differential fluids", "Change transfer case fluid"],
+                "60000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Service cooling system", "Inspect battery"],
+                "80000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery", "Change spark plugs", "Check alignment"],
+                "100000": ["Oil change", "Tire rotation", "Inspect brakes", "Change spark plugs"]
+            }
+        },
+        {
+            "make": "Chevrolet",
+            "model": "Silverado",
+            "maintenance_schedule": {
+                "20000": ["Oil change", "Tire rotation", "Inspect brakes"],
+                "40000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Change front and rear differential fluids", "Change transfer case fluid"],
+                "60000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter"],
+                "80000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Change spark plugs"],
+                "100000": ["Oil change", "Tire rotation", "Inspect brakes", "Change spark plugs"]
+            }
+        },
+        {
             "make": "Nissan",
             "model": "Altima",
             "maintenance_schedule": {
