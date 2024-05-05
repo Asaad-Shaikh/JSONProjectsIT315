@@ -107,7 +107,7 @@
                 "60000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Service cooling system", "Inspect battery"],
                 "80000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery", "Change spark plugs", "Check alignment"],
                 "100000": ["Oil change", "Tire rotation", "Inspect brakes", "Change spark plugs", "inspect transmission fluid"]
-        {
+        
             
         }
         
