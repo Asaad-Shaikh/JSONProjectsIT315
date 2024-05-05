@@ -5,9 +5,10 @@
             "model": "Camry",
             "maintenance_schedule": {
                 "20000": ["Oil change", "Tire rotation", "Inspect brakes"],
-                "40000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter"],
-                "60000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery"],
-                "80000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery", "Change spark plugs"]
+                "40000": ["Inspect brakes", "Replace air filter", "Change front and rear differential fluids for AWD", "Change transfer case fluid for AWD"],
+                "60000": ["Inspect brakes", "Replace air filter", "Inspect battery"],
+                "40000": ["Inspect brakes", "Replace air filter", "Change front and rear differential fluids for AWD", "Change transfer case fluid for AWD"],
+                "100000": ["Inspect brakes", "Change spark plugs"]
             }
         },
         {
@@ -15,49 +16,87 @@
             "model": "F-150",
             "maintenance_schedule": {
                 "20000": ["Oil change", "Tire rotation", "Inspect brakes"],
-                "40000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter"],
-                "60000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery"],
-                "80000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery", "Change spark plugs"]
+                "40000": ["Inspect brakes", "Replace air filter", "Change front and rear differential fluids for AWD", "Change transfer case fluid for AWD"],
+                "60000": ["Inspect brakes", "Replace air filter", "Inspect battery"],
+                "40000": ["Inspect brakes", "Replace air filter", "Change front and rear differential fluids for AWD", "Change transfer case fluid for AWD"],
+                "100000": ["Inspect brakes", "Change spark plugs"]
             }
         },
         {
-            "make": "Honda",
-            "model": "Civic",
+            "make": "Chevrolet",
+            "model": "Silverado",
             "maintenance_schedule": {
                 "20000": ["Oil change", "Tire rotation", "Inspect brakes"],
-                "40000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter"],
-                "60000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery"],
-                "80000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery", "Change spark plugs"]
+                "40000": ["Inspect brakes", "Replace air filter", "Change front and rear differential fluids", "Change transfer case fluid"],
+                "60000": ["Inspect brakes", "Replace air filter"],
+                "40000": ["Inspect brakes", "Replace air filter", "Change front and rear differential fluids for AWD", "Change transfer case fluid for AWD"],
+                "100000": ["Inspect brakes", "Change spark plugs"]
             }
         },
         {
-            "make": "Infiniti",
-            "model": "Q50",
+            "make": "Nissan",
+            "model": "Altima",
             "maintenance_schedule": {
                 "20000": ["Oil change", "Tire rotation", "Inspect brakes"],
-                "40000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Check fluid levels"],
-                "60000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery", "Check suspension"],
-                "80000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery", "Change spark plugs", "Change differential fluid", "Change transfer case fluids"]
+                "40000": ["Inspect brakes", "Replace air filter", "Change front and rear differential fluids", "Change transfer case fluid"],
+                "60000": ["Inspect brakes", "Replace air filter"],
+                "40000": ["Inspect brakes", "Replace air filter", "Change front and rear differential fluids for AWD", "Change transfer case fluid for AWD"],
+                "100000": ["Inspect brakes", "Change spark plugs"]
             }
         },
         {
-            "make": "BMW",
-            "model": "3 Series",
+            "make": "Hyundai",
+            "model": "Sonata",
             "maintenance_schedule": {
                 "20000": ["Oil change", "Tire rotation", "Inspect brakes"],
-                "40000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter"],
-                "60000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery"],
-                "80000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery", "Change spark plugs", "Change differential fluid", "Change transfer case fluids"]
+                "40000": ["Inspect brakes", "Replace air filter", "Change front and rear differential fluids", "Change transfer case fluid"],
+                "60000": ["Inspect brakes", "Replace air filter"],
+                "40000": ["Inspect brakes", "Replace air filter", "Change front and rear differential fluids for AWD", "Change transfer case fluid for AWD"],
+                "100000": ["Inspect brakes", "Change spark plugs"]
             }
         },
         {
-            "make": "Acura",
-            "model": "TLX",
+            "make": "Volkswagen",
+            "model": "Jetta",
             "maintenance_schedule": {
                 "20000": ["Oil change", "Tire rotation", "Inspect brakes"],
-                "40000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Service transmission"],
-                "60000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Service cooling system", "Inspect battery"],
-                "80000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery", "Change spark plugs", "Check alignment"]
+                "40000": ["Inspect brakes", "Replace air filter", "Change front and rear differential fluids", "Change transfer case fluid"],
+                "60000": ["Inspect brakes", "Replace air filter"],
+                "40000": ["Inspect brakes", "Replace air filter", "Change front and rear differential fluids for AWD", "Change transfer case fluid for AWD"],
+                "100000": ["Inspect brakes", "Change spark plugs"]
+            }
+        },
+        {
+            "make": "Kia",
+            "model": "Optima",
+            "maintenance_schedule": {
+                "20000": ["Oil change", "Tire rotation", "Inspect brakes"],
+                "40000": ["Inspect brakes", "Replace air filter", "Change front and rear differential fluids", "Change transfer case fluid"],
+                "60000": ["Inspect brakes", "Replace air filter"],
+                "40000": ["Inspect brakes", "Replace air filter", "Change front and rear differential fluids for AWD", "Change transfer case fluid for AWD"],
+                "100000": ["Inspect brakes", "Change spark plugs"]
+            }
+        },
+        {
+            "make": "Subaru",
+            "model": "Outback",
+            "maintenance_schedule": {
+                "20000": ["Oil change", "Tire rotation", "Inspect brakes"],
+                "40000": ["Inspect brakes", "Replace air filter", "Change front and rear differential fluids", "Change transfer case fluid"],
+                "60000": ["Inspect brakes", "Replace air filter"],
+                "40000": ["Inspect brakes", "Replace air filter", "Change front and rear differential fluids for AWD", "Change transfer case fluid for AWD"],
+                "100000": ["Inspect brakes", "Change spark plugs"]
+            }
+        },
+        {
+            "make": "Mercedes-Benz",
+            "model": "C-Class",
+            "maintenance_schedule": {
+                "20000": ["Oil change", "Tire rotation", "Inspect brakes"],
+                "40000": ["Inspect brakes", "Replace air filter", "Change front and rear differential fluids", "Change transfer case fluid"],
+                "60000": ["Inspect brakes", "Replace air filter"],
+                "40000": ["Inspect brakes", "Replace air filter", "Change front and rear differential fluids for AWD", "Change transfer case fluid for AWD"],
+                "100000": ["Inspect brakes", "Change spark plugs"]
             }
         }
     ]
