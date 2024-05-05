@@ -6,7 +6,7 @@
             "maintenance_schedule": {
                 "20000": ["Oil change", "Tire rotation", "Inspect brakes"],
                 "40000": ["Inspect brakes", "Replace air filter", "Change front and rear differential fluids for AWD", "Change transfer case fluid for AWD"],
-                "80000": ["Inspect brakes", "Replace air filter", "Inspect battery"],
+                "80000": ["Oil change", "Tire rotation", "Inspect brakes", "Replace air filter", "Inspect battery", "Change spark plugs", "Check alignment"],
                 "100000": ["Inspect brakes", "Change spark plugs"]
             }
         },
