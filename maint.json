@@ -99,6 +99,7 @@
                 "100000": ["Oil change", "Tire rotation", "Inspect brakes", "Change spark plugs", "inspect transmission fluid"]
             }
             },
+        {
              "make": "Lexus",
             "model": "TLX",
             "maintenance_schedule": {
